@@ -1,0 +1,66 @@
+.hidden {
+  display: none;
+}
+body {
+  
+}
+
+
+#login-form{
+  color: whitesmoke;
+
+
+
+}
+
+#greeting{
+  color: whitesmoke;
+  text-shadow: 1px 1px 1px #119;
+   position: relative;
+   text-align: center;
+   font-size: 48px;
+   bottom: 100px;
+
+
+}
+#weather{
+  position: relative;
+  bottom: 480px;
+  color: whitesmoke;
+  text-shadow: 1px 1px 1px #119;
+  
+
+}
+
+#todo{
+  position: relative;
+  text-align: center;
+  top: 50px;
+
+
+
+}
+
+#clock{
+  position: relative;
+  top: 220px;
+  text-align: center;
+  font-size: 100px;
+  color: whitesmoke;
+  text-shadow: 1px 1px 1px #119;
+}
+
+
+
+
+
+
+#quotes {
+  font-family: "Hurricane", cursive;
+  font-size: xx-large;
+  text-shadow: 1px 1px 1px #119;
+  color: whitesmoke;
+  position: relative;
+  top: 200px;
+  text-align: center;
+}
