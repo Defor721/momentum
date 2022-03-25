@@ -29,14 +29,3 @@ const body = document.querySelector("body");
 
 body.background = `/img/${chosenImage}`;
 
-
-
-
-// const bgImage = document.createElement("img");
-
-// bgImage.src=`img/${chosenImage}`
-
-// document.body.appendChild(bgImage);
-
-// //appendChild( = 
-
