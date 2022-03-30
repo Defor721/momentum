@@ -64,3 +64,13 @@ body {
   top: 200px;
   text-align: center;
 }
+
+li {
+  width: 200px;
+  text-align: center;
+  position: relative;
+  left: 45%;
+  color: aliceblue;
+  font-weight: bolder;
+}
+
